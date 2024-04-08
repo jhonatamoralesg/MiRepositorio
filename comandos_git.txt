@@ -1,0 +1,25 @@
+clona repositorios, hacer commits, confirmar cambios 
+
+
+
+
+*crear carpetas en git.
+mkdir "repo_name"
+*remover carpetas en git
+rmdir "repo_name."
+*inicializar git
+git nit
+*mostrar directorios
+ls
+*mostrar directorios ocultos
+ls -a
+*git add "name_archivo"
+subir archivo a la area de preparacion, o se està listo para subir al repositorio
+*git status
+mostrar informaciòn del directorio de trabajo y el area de preparacin
+*git rm --cached "name_file". -->
+ remueve el archivo de preparaciòn de la memoria cache.
+*git commit  -m "nombre que quieras, es decir una descripcion" -a , el "-m" es para el mensaje, el -a es para agregar al estado stagubd,
+sube todo los archivos  al repositorio.
+*git commit -a --> sube los archivos sin meterlos en la area de preparaciòn.
+
